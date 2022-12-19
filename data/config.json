@@ -1,0 +1,1 @@
+{"embeddings": [{"tensorName": "item_emb", "tensorShape": [9742, 768], "tensorPath": "https://storage.googleapis.com/cds_embedding_projector/embeddings.tsv", "metadataPath": "https://storage.googleapis.com/cds_embedding_projector/metadata.tsv"}]}

@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "vis-emb"
+version = "0.1.0"
+description = ""
+authors = ["xiang.hsu <xiang.hsu@vpon.com>"]
+readme = "README.md"
+packages = [{include = "vis_emb"}]
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.11"
+tensorflow = "^2.11.0"
+ipykernel = "^6.19.2"
+tensorflow-datasets = "^4.7.0"
+docarray = "^0.20.1"
+pandas = "^1.5.2"
+pydantic = "^1.10.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
