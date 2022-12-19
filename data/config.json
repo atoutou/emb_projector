@@ -6,8 +6,8 @@
         9742,
         768
     ],
-    "tensorPath": "https://gist.githubusercontent.com/atoutou/emb_projector/blob/main/data/embeddings.tsv",
-    "metadataPath": "https://gist.githubusercontent.com/atoutou/emb_projector/blob/main/data/metadata.tsv"
+    "tensorPath": "https://raw.githubusercontent.com/atoutou/emb_projector/main/data/embeddings.tsv",
+    "metadataPath": "https://raw.githubusercontent.com/atoutou/emb_projector/main/data/metadata.tsv"
     }
 ]
 }
